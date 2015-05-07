@@ -26,7 +26,7 @@
     </dependency>
   </dependencies>
   <scm>
-           <developerConnection>scm:git:https://github.com/sribhavani/myrepo/master/mvnexbook-examples-1.0/ch-simple-web/simple-webapp/pom.xml</developerConnection>
+           <developerConnection>scm:git:https://github.com/sribhavani/myrepo/master/mvnexbook-examples-1.0/ch-simple-web/simple-webapp/</developerConnection>
   </scm>
   <build>
     <finalName>simple-webapp</finalName>
